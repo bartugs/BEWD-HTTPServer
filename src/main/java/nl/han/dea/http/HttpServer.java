@@ -6,7 +6,7 @@ import java.net.Socket;
 
 public class HttpServer {
 
-    private static final int TCP_PORT = 8385;
+    private static final int TCP_PORT = 8383;
 
     private ServerSocket serverSocket;
 
